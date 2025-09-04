@@ -12,7 +12,26 @@
 
 ###
 
+<p align="right">🔗Puedes encontrarme en:</p>
+
+###
+
 <div align="right">
+  <a href="www.linkedin.com/in/santiago-fernando-japon-patiño-540642328" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/japon.santi?igsh=MThmb3U2ZDcyZ3NmbQ== " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<p align="center">🧐Lenguajes que manejo:</p>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -28,17 +47,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiagoJapon/SantiagoJapon/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantiagoJapon/SantiagoJapon/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SantiagoJapon/SantiagoJapon/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/SantiagoJapon/SantiagoJapon/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoJapon&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoJapon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoJapon&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 

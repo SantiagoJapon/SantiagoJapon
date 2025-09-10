@@ -1,10 +1,8 @@
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg"  />
-</div>
+<h2 align="center">I'm Santiago Japon 👤</h2>
 
 ###
 
-<h2 align="center">I'm Santiago Japon 👤</h2>
+<img align="right" height="200" src="https://i.pinimg.com/736x/d9/db/16/d9db16be38ed68412d81a93e27d5182d.jpg"  />
 
 ###
 
@@ -27,7 +25,7 @@
 
 ###
 
-<p align="center">🧐Lenguajes que manejo:</p>
+<p align="center">🧐Tech:</p>
 
 ###
 
@@ -38,21 +36,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/SantiagoJapon/SantiagoJapon/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoJapon&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoJapon&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 

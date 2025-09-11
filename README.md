@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/d9/db/16/d9db16be38ed68412d81a93e27d5182d.jpg"  />
+<img align="right" height="322" src="https://i.pinimg.com/736x/7c/8a/f5/7c8af563aea37606e54d0c7406f4dfb7.jpg"  />
 
 ###
 
-<p align="left">🚀 Sobre mí<br><br>Hola 👋, soy Santiago, un joven a quien le atrae el desarrollo de software y la tecnología. Me gusta crear soluciones que combinan creatividad, innovación, trabajo en equipo y buenas prácticas de programación.<br><br>💻 Fullstack Developer: trabajo tanto en frontend como backend, con experiencia en frameworks modernos y bases de datos.<br><br>🌱 Aprendiz constante: actualmente profundizando en IA, análisis de datos y arquitecturas distribuidas.<br><br>🎯 Objetivo: seguir creciendo como desarrollador, aportar en proyectos desafiantes y crear software con impacto real.</p>
+<p align="left">👨‍💻 ¡Hola! Soy un Desarrollador Full-Stack + Mobile<br>🚀 3+ años resolviendo problemas complejos y creando soluciones elegantes desde el frontend hasta el backend, incluyendo desarrollo móvil con Android Studio.<br>🔧 Lo que hago:<br>💻 Frontend & Backend - Desarrollo completo de aplicaciones web<br>📱 Mobile Development - Experiencia con Android Studio<br>🎨 UI/UX - Me apasiona crear interfaces elegantes y funcionales<br>💡 Mi filosofía:<br>Cada línea de código es una oportunidad para resolver un problema complejo de manera elegante. <br>📂 En mi GitHub encontrarás:<br>🔨 Proyectos personales que muestran mi creatividad<br>💼 Código de trabajo que demuestra mi experiencia profesional<br>🧪 Experimentos con nuevas tecnologías<br>🎯 Estado actual:<br>🔍 Buscando nuevas oportunidades para aplicar mis habilidades y seguir creciendo como desarrollador</p>
 
 ###
 
@@ -45,6 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
